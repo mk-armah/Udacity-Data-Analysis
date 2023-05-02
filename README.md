@@ -8,12 +8,13 @@ This dataset consists of samples from patients who booked an appointment with a 
 ‘ScheduledDay’ provides information on the day the patient set up their appointment. ‘Neighborhood’ indicates the location of the hospital. ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 
 ## Question(s) for Analysis
-What is the Percentage of Patients who show up for Appointments vs Patients who do not ?
-On which Day is it likely for Patient's to miss their Appointments
-Does the month the within which the Appointment was booked have any Significant Impact on whether or not Patients will show up for their Appointments ?
-Does the Patient's Age determine whether or not he/she will show up for appointments ?
-How does the Patient's Gender associate with Attending Appointments ?
-
+<ul>
+  <li>What is the Percentage of Patients who show up for Appointments vs Patients who do not ? </li>
+  <li>On which Day is it likely for Patient's to miss their Appointments </li>
+  <li>Does the month the within which the Appointment was booked have any Significant Impact on whether or not Patients will show up for their Appointments ? </li>
+  <li>Does the Patient's Age determine whether or not he/she will show up for appointments ? </li>
+  <li>How does the Patient's Gender associate with Attending Appointments ? </li>
+</ul>
 ## Findings
 Attention should be given to the SMS Alerts sent to Patients after Appointments are booked. It suprising to say that patients who receive SMS alerts are most likely to not show up for their appointment.
 
