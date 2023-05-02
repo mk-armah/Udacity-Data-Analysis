@@ -15,6 +15,7 @@ This dataset consists of samples from patients who booked an appointment with a 
   <li>Does the Patient's Age determine whether or not he/she will show up for appointments ? </li>
   <li>How does the Patient's Gender associate with Attending Appointments ? </li>
 </ul>
+
 ## Findings
 Attention should be given to the SMS Alerts sent to Patients after Appointments are booked. It suprising to say that patients who receive SMS alerts are most likely to not show up for their appointment.
 
